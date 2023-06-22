@@ -11,11 +11,49 @@ La secuencia propuesta de movimiento:
 - Extracción de piezas de la estantería hacia el balde.
 - Posicionamiento del balde desde la zona de preparación a la banda transportadora.
 
+A continuacion se muestran las piezas utilizadas
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+
 ## Diseño de Herramienta 
 
 ## Rutina en RAPID
 
-En primer lugar en robostudio se modelo todos los elementos que intervienen en el proceso planteado, lo cual se muestra en la siguiente figura:
+En primer lugar en RoboStudio se muestra el modelo de todos los elementos que intervienen en el proceso planteado, lo cual se muestra en la siguiente figura:
 
 <p align="center">
 <img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
@@ -33,6 +71,17 @@ Para el desarrollo del RAPID se inicio en crear 3 workobjects, uno que seria ref
 <img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
 </p> 
 
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
 
 
 ## Proceso de calibración y ejecución
@@ -44,8 +93,11 @@ En la realización del proyecto no hubo mayores inconvenientes relacionados a Ro
 
 Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot. Teniendo como resultado que se demoraria XXXX minutos con XXX segundos.
 
+Video
+
 Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos.
 
+Video
 
 ## Demostración de funcionamiento 
 
