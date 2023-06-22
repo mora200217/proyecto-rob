@@ -20,4 +20,6 @@ La secuencia propuesta de movimiento:
 
 ## Comparación tiempo de alistamiento manual y operación automatizada
 
+## Demostración de funcionamiento 
+
 ## Conclusiones
