@@ -51,6 +51,21 @@ A continuacion se muestran las piezas utilizadas
 
 ## Diseño de Herramienta 
 
+En este apartado se muestra la descripción, planos y fotografías del gripper diseñado y sus piezas para el proceso de alistamiento asi como de la herramienta porta ventosas creada para la tarea de alistamiento como se muestran en las siguientes figuras:
+
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+</p> 
+
+
+
+
+
 ## Rutina en RAPID
 
 En primer lugar en RoboStudio se muestra el modelo de todos los elementos que intervienen en el proceso planteado, lo cual se muestra en la siguiente figura:
