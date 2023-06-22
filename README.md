@@ -76,7 +76,7 @@ En este apartado se muestra la descripción, planos y fotografías del gripper d
 En primer lugar en RoboStudio se muestra el modelo de todos los elementos que intervienen en el proceso planteado, lo cual se muestra en la siguiente figura:
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Objetos_intervienen_worksapce.PNG" width="50%"/> 
 </p> 
 
 
@@ -84,23 +84,25 @@ En primer lugar en RoboStudio se muestra el modelo de todos los elementos que in
 Para el desarrollo del RAPID se inicio en crear 3 workobjects, uno que seria referente al gancho_banda, otro que seria de la ventosa_estanteria y otro referente al punto en donde se dejaria la pieza en el balde. De acuerdo a estos 3 workobjects se diseñaron unos Paths, 5 para ser exactos, en donde el primero llamado "Home" es referente a que precisamente todas las articulaciones del robot esten en ceros. Para el Path llamado "Path_agarrar_balde_inicio" describe la traayectoria en donde el robot se acerca al balde, lo agarra con el gancho, y lo deja en el piso. Para el Path llamdado "Path_primeras_tres" representa la trayectoria en donde la ventosa gracias a la valvula hara el proceso de succion y no succion succionando y dejando de succionar para transladar y soltar las piezas en el balde siendo estas 3 primeras posiciones los lugares de arriba, izquierda y derecha y medio a la izquierda. Para el Path  "Path_segundas_tres" describe la misma trayectoria pero para las otras 3 posiciones que son medio a la derecha, abajo izquierda y abajo derecha. Para el Path "Path_dejar_balde_final" se realiza la trayectoria en donde el balde con las piezas con recogidos nuevamente con el gancho por el robot para luego ser llevados otra vez a la banda y ser dejados alli.
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Path_agarrar_balde_inicio.PNG" width="50%"/> 
 </p> 
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Path_primeras_tres.PNG" width="50%"/> 
 </p> 
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Path_segundas_tres.PNG" width="50%"/> 
 </p> 
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Path_dejar_balde_final.PNG" width="50%"/> 
 </p> 
 
+Estando aqui el codigo RAPID comentado sobre las caracteristicas de los Paths anteriormente mencionados en el main
+
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Rapid_main.PNG" width="50%"/> 
 </p> 
 
 
