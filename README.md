@@ -17,4 +17,7 @@ La secuencia propuesta de movimiento:
 
 ## Proceso de calibración y ejecución
 
+
+## Comparación tiempo de alistamiento manual y operación automatizada
+
 ## Conclusiones
