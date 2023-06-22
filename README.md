@@ -108,15 +108,15 @@ En la realización del proyecto no hubo mayores inconvenientes relacionados a Ro
 
 Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot. Teniendo como resultado que se demoraria XXXX minutos con XXX segundos.
 
-Video
+ - Video
 
 Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos.
 
-Video
+ - Video
 
 ## Demostración de funcionamiento 
 
 Aqui se muestra el funcionamiento completo de la para las rutinas donde en el primera instancia se muestra el robot llegando a las primeras 3 posiciones y luego llegando a las otras 3 posiciones donde en cada posicion se encuentra una figura diferente.
 
-Video
+ - Video
 
