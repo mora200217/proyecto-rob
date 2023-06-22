@@ -125,7 +125,7 @@ Para este apartado se hicieron 2 procedimientos segun los indicados, primero se 
 
  - Video
 
-Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos.
+Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos y para las otras 3 piezas se demoro XXX minutos con XXX segundos
 
  - Video
 
