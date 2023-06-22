@@ -1,6 +1,11 @@
 # Proyecto Robótica 
 Proyecto de automatización de tarea de Pick & place entre espacios de trabajo con IRB140.
 
+**Integrantes**: 
+* Nelson David Ramírez Marín
+* Andrés Zuleta 
+* Andrés Morales Martínez 
+
 ## Declaración de problema y solución
 Se busca automatizar una rutina de extracción de piezas y alistamiento en un balde originario de una banda transportadora. Aunque la rutina puede ser desarrollada manualmente, la automatización del proceso bajo el diseño de rutinas de movimiento automáticas del manipulador, reducen considerablemente el tiempo del proceso, y aumentan la repitibilidad y confiabilidad de la rutina. 
 
