@@ -131,7 +131,11 @@ Y seguidamente se midio la velocidad que existia entre la trayectoria completa d
 
 ## Demostración de funcionamiento 
 
-Aqui se muestra el funcionamiento completo de la para las rutinas donde en el primera instancia se muestra el robot llegando a las primeras 3 posiciones y luego llegando a las otras 3 posiciones donde en cada posicion se encuentra una figura diferente.
+Aqui se muestra el funcionamiento completo de la para las rutinas donde en el primera instancia se muestra el robot llegando a las primeras 3 posiciones y luego llegando a las otras 3 posiciones donde en cada posicion se encuentra una figura diferente, todo fisicamente
+
+ - Video
+
+Aqui se muestra el funcionamiento completo de la para las rutinas donde en el primera instancia se muestra el robot llegando a las primeras 3 posiciones y luego llegando a las otras 3 posiciones donde en cada posicion se encuentra una figura diferente, todo en simulacion en RobotStudio
 
  - Video
 
