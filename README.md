@@ -116,7 +116,7 @@ Estando aqui el codigo RAPID comentado sobre las caracteristicas de los Paths an
 
 ## Proceso de calibración y ejecución
 
-En la realización del proyecto no hubo mayores inconvenientes relacionados a RobotStudio pero a la hora de realizar lo mismo fisicamente se generaron algunos inconvenientes relacionados al la posicion de los puntos, por lo que la calibracion hecha solo fue usar jogging en los puntos problematicos para obtener sus coordenadas y tambien como otra alternativa ir moviendo el workobject de la estanteria.
+En la realización del proyecto no hubo mayores inconvenientes relacionados a RobotStudio pero a la hora de realizar lo mismo fisicamente se generaron algunos inconvenientes relacionados al la posicion de los puntos, por lo que la calibracion hecha solo fue usar jogging en los puntos problematicos para obtener sus coordenadas y tambien como otra alternativa ir moviendo el workobject de la estanteria como los workobjects de dejar la pieza en el blade dependiendo si era para las 3 primeras primeras posiciones, o para las otras 3.
 
 
 ## Comparación tiempo de alistamiento manual y operación automatizada
