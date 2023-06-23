@@ -125,8 +125,7 @@ En la realización del proyecto no hubo mayores inconvenientes relacionados a Ro
 
 ## Comparación tiempo de alistamiento manual y operación automatizada
 
-Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot y ademas siguiendo de cierta forma los puntos de las rutinas que hacia el robot. Teniendo como resultado que se demoraria, como se ve en el primer video de esta seccion, 
-31 segundos para las primeras 3 posiciones y 28 segundos para las otras 3 posiciones
+Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot y ademas siguiendo de cierta forma los puntos de las rutinas que hacia el robot. Teniendo como resultado que se demoraria, como se ve en el video alistamiento manual Path_primeras_tres, 31 segundos para las primeras 3 posiciones y de acuerdo al video alistamiento manual Path_segundas_tres, 28 segundos para las otras 3 posiciones 
 
  - Video alistamiento manual Path_primeras_tres
 
@@ -136,7 +135,7 @@ Para este apartado se hicieron 2 procedimientos segun los indicados, primero se 
 
    * https://youtu.be/c2UgFJ2A1XM
 
-Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro 55 segundos minutos y para las otras 3 piezas se demoro 56 segundos segun lo recopilado en el video de demostracion completo de forma fisica, lo que resulta en que las rutinas de para coger y dejar las piezas en el balde, en los 2 casos son muy similares a como se esperaba para el proceso.
+Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro 55 segundos minutos y para las otras 3 piezas se demoro 56 segundos segun lo recopilado en el video de demostracion completo de forma fisica, lo que resulta en que las rutinas de coger y dejar las piezas en el balde, en los 2 casos son muy similares a como se esperaba para el proceso.
 
 
 ## Demostración de funcionamiento 
