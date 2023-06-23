@@ -126,11 +126,11 @@ Para este apartado se hicieron 2 procedimientos segun los indicados, primero se 
 
  - Video alislamiento manual Path_primeras_tres
 
-*
+   
 
  - Video alislamiento manual Path_segundas_tres
 
-* 
+   
 
 Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos y para las otras 3 piezas se demoro XXX minutos con XXX segundos segun lo recopilado en el video de demostracion completo de forma fisica.
 
@@ -141,14 +141,14 @@ Aqui se muestra el funcionamiento completo de la para las rutinas donde en el pr
 
  - Video completo
 
-* 
+   
 
 Aqui se muestra el funcionamiento completo de la para las rutinas donde en el primera instancia se muestra el robot llegando a las primeras 3 posiciones y luego llegando a las otras 3 posiciones donde en cada posicion se encuentra una figura diferente, todo en simulacion en RobotStudio
 
  - Simulación 3 primeras posiciones
 
-* 
+   
 
  - Simulacion 3 segundas posiciones
 
-* 
+   
