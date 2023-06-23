@@ -59,16 +59,19 @@ A continuacion se muestran todo el conjunto de objetos usados para el desarrollo
 
 En este apartado se muestra la descripción, planos y fotografías del gripper diseñado y sus piezas para el proceso de alistamiento asi como de la herramienta porta ventosas creada para la tarea de alistamiento como se muestran en las siguientes figuras:
 
-
+- Modelado herramienta completa sin gancho ni ventosa
+  
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
-
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Modelado%20herramienta%20semicompleta.jpeg" width="50%"/> 
 </p> 
 
 
+- Modelado herramienta completa con gancho y ventosa
+
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Modelado%20herramienta%20completa%20simulacion.jpeg" width="50%"/> 
+</p> 
 
 
 
