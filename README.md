@@ -57,7 +57,19 @@ A continuacion se muestran todo el conjunto de objetos usados para el desarrollo
 
 ## Diseño de Herramienta 
 
-En este apartado se muestra la descripción, planos y fotografías del gripper diseñado y sus piezas para el proceso de alistamiento asi como de la herramienta porta ventosas creada para la tarea de alistamiento como se muestran en las siguientes figuras:
+En este apartado se muestra la descripción, planos y fotografías del gripper diseñado y sus piezas para el proceso de alistamiento asi como de la herramienta porta ventosas creada para la tarea de alistamiento como se muestran en las siguientes figuras de esta seccion:
+
+- Planos de la herramienta_1
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Plano%20herramienta_1.PNG" width="50%"/> 
+</p>   
+
+-Planos de la herramienta_2
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Plano%20herramienta_2.PNG" width="50%"/> 
+</p> 
 
 - Modelado herramienta completa sin gancho ni ventosa
   
