@@ -128,13 +128,13 @@ En la realización del proyecto no hubo mayores inconvenientes relacionados a Ro
 Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot y ademas siguiendo de cierta forma los puntos de las rutinas que hacia el robot. Teniendo como resultado que se demoraria, como se ve en el primer video de esta seccion, 
 31 segundos para las primeras 3 posiciones y 28 segundos para las otras 3 posiciones
 
- - Video alislamiento manual Path_primeras_tres
+ - Video alistamiento manual Path_primeras_tres
 
-   
+   *
 
- - Video alislamiento manual Path_segundas_tres
+ - Video alistamiento manual Path_segundas_tres
 
-   
+   *
 
 Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos y para las otras 3 piezas se demoro XXX minutos con XXX segundos segun lo recopilado en el video de demostracion completo de forma fisica.
 
