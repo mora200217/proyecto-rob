@@ -121,7 +121,7 @@ En la realización del proyecto no hubo mayores inconvenientes relacionados a Ro
 
 ## Comparación tiempo de alistamiento manual y operación automatizada
 
-Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot. Teniendo como resultado que se demoraria XXXX minutos con XXX segundos.
+Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot y ademas siguiendo de cierta forma los puntos de las rutinas que hacia el robot. Teniendo como resultado que se demoraria XXXX minutos con XXX segundos.
 
  - Video
 
@@ -137,5 +137,10 @@ Aqui se muestra el funcionamiento completo de la para las rutinas donde en el pr
 
 Aqui se muestra el funcionamiento completo de la para las rutinas donde en el primera instancia se muestra el robot llegando a las primeras 3 posiciones y luego llegando a las otras 3 posiciones donde en cada posicion se encuentra una figura diferente, todo en simulacion en RobotStudio
 
- - Video
+ - Simulación 3 primeras posiciones
 
+* 
+
+ - Simulacion 3 segundas posiciones
+
+* 
