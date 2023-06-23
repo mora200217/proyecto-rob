@@ -125,7 +125,7 @@ En la realización del proyecto no hubo mayores inconvenientes relacionados a Ro
 
 ## Comparación tiempo de alistamiento manual y operación automatizada
 
-Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot y ademas siguiendo de cierta forma los puntos de las rutinas que hacia el robot. Teniendo como resultado que se demoraria, como se ve en el video alistamiento manual Path_primeras_tres, 31 segundos para las primeras 3 posiciones y de acuerdo al video alistamiento manual Path_segundas_tres, 28 segundos para las otras 3 posiciones 
+Para este apartado se hicieron 2 procedimientos segun los indicados, primero se midio en tiempo cuanto se demoraría un integrante del grupo en ejecutar las mismas trayectorias teniendo este una velocidad constante a la del promedio de velocidades eque existen entre los puntos del robot y ademas siguiendo de cierta forma los puntos de las rutinas que hacia el robot. Teniendo como resultado que se demoraria, como se ve en el video alistamiento manual Path_primeras_tres, 37 segundos para las primeras 3 posiciones y de acuerdo al video alistamiento manual Path_segundas_tres, 28 segundos para las otras 3 posiciones 
 
  - Video alistamiento manual Path_primeras_tres
 
