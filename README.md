@@ -85,7 +85,7 @@ En este apartado se muestra la descripción, planos y fotografías del gripper d
 <img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Modelado%20herramienta%20completa%20simulacion.jpeg" width="50%"/> 
 </p> 
 
-
+La herramienta fue diseñada de forma que sea fácil de montar en el manipulador, la ventosa y el gancho sean acoplados y  removidos fácilmente y las orientaciones y posiciones de los TCP sean ubicados fácilmente a la hora de crear la herramienta en Robot Studio, el agujero de la ventosa se modeló siguiendo la forma de la misma, teniendo las secciones circulares y la sección hexagonal a medida para que la misma no tenga deslizamiento o juego en ninguna dirección y quede fija, el gancho se ubicó en la parte superior de la herramienta como se ve en la figura, para que la herramienta pudiera entrar en la estantería fácilmente y sin chocar con la misma. La herramienta se dividió en dos partes con corte en el diámetro de la sección de la ventosa, con un par de tornillos M3 se asegura la segunda pieza y a los laterales se cuenta con dos orificios para insertar tuercas de forma que el tornillo quede fijo y no deslice. 
 
 ## Rutina en RAPID
 
