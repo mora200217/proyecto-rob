@@ -16,41 +16,42 @@ La secuencia propuesta de movimiento:
 - Extracción de piezas de la estantería hacia el balde.
 - Posicionamiento del balde desde la zona de preparación a la banda transportadora.
 
-A continuacion se muestran las piezas utilizadas
+A continuacion se muestran todo el conjunto de objetos usados para el desarrollo del proyecto:
+
+- Estanteria A  
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Estanteria%20A%20real.jpeg" width="50%"/> 
 </p> 
 
+- Banda Transportadora
+  
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Banda%20transportadora.jpeg" width="50%"/> 
 </p> 
 
+- Balde usado
+  
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Balde%20real.jpeg" width="50%"/> 
 </p> 
 
-<p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
-</p> 
+- Herramienta usada y acoplada al brazo_1
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/phantom_drawer_ws/blob/master/imgs/rosgraph.png" width="50%"/> 
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Herramienta%20utilizada%20real%20y%20acoplada_1.jpeg" width="50%"/> 
+</p> 
+
+- Herramienta usada y acoplada al brazo_2
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Herramienta%20utilizada%20real%20y%20acoplada_2.jpeg" width="50%"/> 
+</p> 
+
+- Piezas utilizadas (6)
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/proyecto-rob/blob/master/Imagenes%20proyecto%20robotica/Piezas%20utilizadas.jpeg" width="50%"/> 
 </p> 
 
 
