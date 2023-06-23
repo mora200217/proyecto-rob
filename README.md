@@ -136,7 +136,7 @@ Para este apartado se hicieron 2 procedimientos segun los indicados, primero se 
 
    * https://youtu.be/c2UgFJ2A1XM
 
-Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro XXX minutos con XXX segundos y para las otras 3 piezas se demoro XXX minutos con XXX segundos segun lo recopilado en el video de demostracion completo de forma fisica.
+Y seguidamente se midio la velocidad que existia entre la trayectoria completa de tomar las 3 primeras piezas y luego tomar las otras 3, para ver si existe alguna variación en estos tiempos que relativamente debererian ser muy similares, teniendo como resultado que para las primeras 3 piezas se demoro 55 segundos minutos y para las otras 3 piezas se demoro 56 segundos segun lo recopilado en el video de demostracion completo de forma fisica, lo que resulta en que las rutinas de para coger y dejar las piezas en el balde, en los 2 casos son muy similares a como se esperaba para el proceso.
 
 
 ## Demostración de funcionamiento 
